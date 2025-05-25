@@ -88,5 +88,6 @@ To run the application in development mode:
 
 ## Testing
 Real-state-app uses the {test_framework} test framework. Run the test suite with:
-5. **Test**
+
+5.  **Test**:
     npm test
